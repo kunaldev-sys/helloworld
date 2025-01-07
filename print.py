@@ -1,1 +1,2 @@
-printf("kunal akhade")
+print("kunal akhade")
+print("Hello World")
